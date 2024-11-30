@@ -1,3 +1,3 @@
 module github.com/kaium123/queue
 
-go 1.23.2
+go 1.22.8
