@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	sessionmanager "github.com/kaium123/queue"
+	sessionmanager "github.com/kaium123/session-manager"
 	"github.com/stretchr/testify/assert"
 )
 

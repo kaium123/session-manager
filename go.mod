@@ -1,4 +1,4 @@
-module github.com/kaium123/queue
+module github.com/kaium123/session-manager
 
 go 1.23.3
 
