@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	sessionmanager "github.com/solrac97gr/session-manager"
+	sessionmanager "github.com/kaium123/queue"
 )
 
 func TestSession_NewSession(t *testing.T) {

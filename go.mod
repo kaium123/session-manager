@@ -4,7 +4,6 @@ go 1.23.3
 
 require (
 	github.com/google/uuid v1.6.0
-	github.com/solrac97gr/session-manager v0.1.5
 	github.com/stretchr/testify v1.10.0
 )
 
