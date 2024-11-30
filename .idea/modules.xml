@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/session-manager.iml" filepath="$PROJECT_DIR$/.idea/session-manager.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/hello.iml" filepath="$PROJECT_DIR$/.idea/hello.iml" />
+>>>>>>> 3fe36822fd5d20c99e3f191d2a83faec12204f60
     </modules>
   </component>
 </project>

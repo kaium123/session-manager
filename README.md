@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Session Manager for Go 📂
 [![GoDoc](https://godoc.org/github.com/solrac97gr/session-manager?status.svg)](https://godoc.org/github.com/solrac97gr/session-manager)
 [![Go Report Card](https://goreportcard.com/badge/github.com/solrac97gr/session-manager)](https://goreportcard.com/report/github.com/solrac97gr/session-manager)
@@ -205,3 +206,6 @@ func main() {
 
 # License
 MIT License
+=======
+# hello1
+>>>>>>> 3fe36822fd5d20c99e3f191d2a83faec12204f60
