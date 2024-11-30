@@ -1,10 +1,11 @@
-module github.com/solrac97gr/session-manager
+module github.com/kaium123/queue
 
-go 1.19
+go 1.23.3
 
 require (
-	github.com/google/uuid v1.3.0
-	github.com/stretchr/testify v1.8.2
+	github.com/google/uuid v1.6.0
+	github.com/solrac97gr/session-manager v0.1.5
+	github.com/stretchr/testify v1.10.0
 )
 
 require (
