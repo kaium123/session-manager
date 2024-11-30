@@ -1,0 +1,18 @@
+# Use the official Go image as the base image
+FROM golang:1.20
+
+# Set the Current Working Directory inside the container
+WORKDIR /app
+
+# Copy the Go Modules manifests
+
+# Download all dependencies. Dependencies will be cached if the go.mod and go.sum files are not changed
+
+# Copy the source code into the container
+COPY . .
+
+# Build the Go app
+RUN go build -o client
+
+# Command to run the executable
+CMD ["./client"]
